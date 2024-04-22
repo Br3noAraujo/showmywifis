@@ -8,7 +8,7 @@
 python showmywifis.py
 ```
 ##### OUTPUT
-<img src="https://media.discordapp.net/attachments/874271657760542720/1056030061725241394/Captura_de_tela_2022-12-23_23-06-10.png.png">
+<img src="https://i.imgur.com/cssOJjT.png">
 
 
 ####  BUY ME ONE COFFEE ☕ 
