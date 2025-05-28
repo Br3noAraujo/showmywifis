@@ -8,7 +8,7 @@
 python showmywifis.py
 ```
 ##### OUTPUT
-<img src="https://i.imgur.com/cssOJjT.png">
+<img src="https://i.imgur.com/FofEhUJ.png">
 
 
 ####  BUY ME ONE COFFEE ☕ 
